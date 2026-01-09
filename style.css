@@ -74,3 +74,18 @@ a{
   font-weight: bold;
 }
 
+.hero{
+  background: url("assets/hero-bg.png") center/cover;
+  color: white;
+  padding: 80px 0;
+}
+
+.hero h1{
+  font-size: 42px;
+}
+
+.hero span{
+  color: #28c26a;
+}
+
+
