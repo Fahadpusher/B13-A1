@@ -116,4 +116,13 @@ a{
 .lightpink{background:#fb7185;}
 .lightred{background:#f87171;}
 
+.two{
+  display: flex;
+  gap: 30px;
+  align-items: center;
+}
+
+.two img{
+  width: 50%;
+}
 
